@@ -19,8 +19,6 @@ This project contains **over 1,500 lines of code** and focuses on creating seaml
 - Determines the most optimal moves (e.g., spec, eat, or attack) based on calculated probabilities for securing a successful outcome.
 - Considers the opponent's gear data and predicts statistical kill chances.
 
-![Game Theory](https://github.com/user-attachments/assets/7a2da40d-836e-46cd-8ffc-466bcbf5d517)
-
 ### 2. **Customizable Combat Settings**
 You can customize combat setups directly within the plugin interface:
 
@@ -36,13 +34,9 @@ You can customize combat setups directly within the plugin interface:
 > - Primary Spec Weapon: Armadyl Godsword
 > - Secondary Spec Weapon: Granite Maul
 
-![Customizable Settings](https://github.com/user-attachments/assets/7a2da40d-836e-46cd-8ffc-466bcbf5d517)
-
 ### 3. **Keybind Support**
 - Custom **keybind settings** allow you to trigger special attacks with a personal hotkey.
 - Current Keybind: `Double Space` for spec weapon activation.
-
-![Keybind Options](https://github.com/user-attachments/assets/a67fbd85-8742-403a-8320-79401404c3d1)
 
 ### 4. **Right-Click Weapon Menu Options**
 Added right-click menu options for weapons:
