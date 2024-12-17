@@ -18,12 +18,16 @@ This project contains **over 1,500 lines of code** and focuses on creating seaml
 ## Features
 
 
-![image](https://github.com/user-attachments/assets/2deb8f19-03d1-43e6-9e39-0881921ca277)
+### 0. **Basic Overlay**  
+The plugin provides a clean and efficient overlay with essential visual information:  
 
-## 0. **Basic Overlay**
--Skull color change
--opponents HP with color change 
-- Excluded the more advanced Overlay due to it being to much noise
+- **Skull Color Changes**: Highlights combat targets.  
+- **Opponent HP Display**: Displays opponent health with **color-coded thresholds** for clarity.  
+- **Noise Reduction**: Focused design excludes excessive details to ensure minimal screen clutter.  
+
+**Visual Example:**  
+![Basic Overlay](https://github.com/user-attachments/assets/2deb8f19-03d1-43e6-9e39-0881921ca277)  
+
 
 
 ### 1. **Game Theory Integration**
