@@ -16,11 +16,14 @@ This project contains **over 1,500 lines of code** and focuses on creating seaml
 ![Overview](https://github.com/user-attachments/assets/3ec7c452-328c-40b1-a584-45321fd6381f)
 
 ## Features
+
+
+![image](https://github.com/user-attachments/assets/2deb8f19-03d1-43e6-9e39-0881921ca277)
+
 ## 0. **Basic Overlay**
 -Skull color change
 -opponents HP with color change 
 - Excluded the more advanced Overlay due to it being to much noise
-![image](https://github.com/user-attachments/assets/2deb8f19-03d1-43e6-9e39-0881921ca277)
 
 
 ### 1. **Game Theory Integration**
