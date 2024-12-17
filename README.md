@@ -7,12 +7,21 @@ This is a custom RuneLite internal plugin that leverages **Game Theory** to make
 - Gather opponent gear and calculate the **best openings** with statistical probabilities for securing a confirmed kill.
 - Fully customizable to work with any melee combat setup.
 - Include quality-of-life enhancements like **keybind settings** and **right-click weapon menu options**.
+- Includes red panels on individuals, which are in your combat bracket (no endless right clicking players)
+- white skull at the bottom shows
+- Opponents percentages at bottom as well. 
 
 This project contains **over 1,500 lines of code** and focuses on creating seamless automation while remaining fully configurable for personal preference.
 
 ![Overview](https://github.com/user-attachments/assets/3ec7c452-328c-40b1-a584-45321fd6381f)
 
 ## Features
+## 0. **Basic Overlay**
+-Skull color change
+-opponents HP with color change 
+- Excluded the more advanced Overlay due to it being to much noise
+![image](https://github.com/user-attachments/assets/2deb8f19-03d1-43e6-9e39-0881921ca277)
+
 
 ### 1. **Game Theory Integration**
 - Analyzes real-time combat data.
