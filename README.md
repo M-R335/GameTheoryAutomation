@@ -1,5 +1,6 @@
 
-# GameTheoryAutomation Internal RuneLite Plugin
+# GameTheoryAutomation Internal RuneLite Plugin 
+![Screenshot 2024-12-17 092932](https://github.com/user-attachments/assets/3ec7c452-328c-40b1-a584-45321fd6381f)
 
 ## Overview
 This is a custom RuneLite internal plugin that leverages **Game Theory** to make optimal combat decisions during PvP scenarios. The plugin is designed to:
@@ -33,13 +34,15 @@ You can customize combat setups directly within the plugin interface:
 > - Primary Spec Weapon: Armadyl Godsword
 > - Secondary Spec Weapon: Granite Maul
 
-![Customizable Settings](assets/Screenshot-2024-12-17-092940.png)
+![Customizable Settings](![Screenshot 2024-12-17 092940](https://github.com/user-attachments/assets/7a2da40d-836e-46cd-8ffc-466bcbf5d517)
+)
 
 ### 3. **Keybind Support**
 - Custom **keybind settings** allow you to trigger special attacks with a personal hotkey.
 - Current Keybind: `Double Space` for spec weapon activation.
 
-![Keybind Options](assets/Screenshot-2024-12-17-092932.png)
+![Keybind Options](![Screenshot 2024-12-17 094155](https://github.com/user-attachments/assets/a67fbd85-8742-403a-8320-79401404c3d1)
+)
 
 ### 4. **Right-Click Weapon Menu Options**
 Added right-click menu options for weapons:
@@ -47,8 +50,6 @@ Added right-click menu options for weapons:
 - **Set as Primary Spec Weapon**
 - **Set as Secondary Spec Weapon**
 - **Set as Primary Weapon or Shield**
-
-![Right-Click Menu](assets/Screenshot-2024-12-17-094155.png)
 
 ### 5. **Automated Execution**
 - The plugin will automatically:
@@ -58,7 +59,7 @@ Added right-click menu options for weapons:
 
 Example in action:
 -Fully done based on game engines tick of 600ms so each hit is perfect
-![Auto Execution](assets/runescapeAuto.gif)
+![Auto Execution](![runescapeAuto](https://github.com/user-attachments/assets/3275664d-5bfd-42f5-8a2f-7f48e617bfea))
 
 ## Ethical Notes
 - **Removed Files**: `MyPlugin.java` and `MyPluginOverlay.java` were excluded as they are against both game rules and RuneLite's policies.
