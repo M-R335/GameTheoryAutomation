@@ -11,7 +11,6 @@ This is a custom RuneLite internal plugin that leverages **Game Theory** to make
 - white skull at the bottom shows
 - Opponents percentages at bottom as well. 
 
-This project contains **over 1,500 lines of code** and focuses on creating seamless automation while remaining fully configurable for personal preference.
 
 ![Overview](https://github.com/user-attachments/assets/3ec7c452-328c-40b1-a584-45321fd6381f)
 
