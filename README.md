@@ -27,7 +27,8 @@ This is a custom RuneLite internal plugin that leverages **Game Theory** to make
   - Switch between primary and spec weapons efficiently.
 - Fully done based on the game engine's tick rate of **600ms**, ensuring perfect execution of each action.
 
-![Auto Execution](https://github.com/user-attachments/assets/3275664d-5bfd-42f5-8a2f-7f48e617bfea)
+![Auto Execution](https://github.com/user-attachments/assets/78668098-7091-420b-9309-7ad902d9c2ea)
+
 
 
 
