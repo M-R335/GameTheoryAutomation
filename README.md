@@ -20,16 +20,17 @@ This is a custom RuneLite internal plugin that leverages **Game Theory** to make
 
 ## Features
 
+### 0. **Automated Execution**
+- The plugin will automatically:
+  - Execute special attacks.
+  - Time eating and healing perfectly.
+  - Switch between primary and spec weapons efficiently.
+- Fully done based on the game engine's tick rate of **600ms**, ensuring perfect execution of each action.
 
-### 0. **Basic Overlay**  
-The plugin provides a clean and efficient overlay with essential visual information:  
+![Auto Execution](https://github.com/user-attachments/assets/3275664d-5bfd-42f5-8a2f-7f48e617bfea)
 
-- **Skull Color Changes**: Highlights combat targets.  
-- **Opponent HP Display**: Displays opponent health with **color-coded thresholds** for clarity.  
-- **Noise Reduction**: Focused design excludes excessive details to ensure minimal screen clutter.  
 
-**Visual Example:**  
-![Basic Overlay](https://github.com/user-attachments/assets/2deb8f19-03d1-43e6-9e39-0881921ca277)  
+
 
 
 
@@ -66,14 +67,17 @@ Added right-click menu options for weapons:
 
 ![Right-Click Options](https://github.com/user-attachments/assets/a67fbd85-8742-403a-8320-79401404c3d1)
 
-### 5. **Automated Execution**
-- The plugin will automatically:
-  - Execute special attacks.
-  - Time eating and healing perfectly.
-  - Switch between primary and spec weapons efficiently.
-- Fully done based on the game engine's tick rate of **600ms**, ensuring perfect execution of each action.
 
-![Auto Execution](https://github.com/user-attachments/assets/3275664d-5bfd-42f5-8a2f-7f48e617bfea)
+### 5. **Basic Overlay**  
+The plugin provides a clean and efficient overlay with essential visual information:  
+
+- **Skull Color Changes**: Highlights combat targets.  
+- **Opponent HP Display**: Displays opponent health with **color-coded thresholds** for clarity.  
+- **Noise Reduction**: Focused design excludes excessive details to ensure minimal screen clutter.  
+
+**Visual Example:**  
+![Basic Overlay](https://github.com/user-attachments/assets/2deb8f19-03d1-43e6-9e39-0881921ca277)  
+
 
 ## Ethical Notes
 - **Removed Files**: `MyPlugin.java` and `MyPluginOverlay.java` were excluded as they are against both game rules and RuneLite's policies.
